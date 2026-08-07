@@ -14,12 +14,12 @@ We use Git's version control architecture to do what Plato's dialogues could not
 
 | Repository | Domain | Status |
 |---|---|---|
-| [The-Sands-Governing-Theorem](link) | Political Philosophy | Published on SSRN |
-| [The-Pufferfish-Principle](link) | Philosophy of Physics / Cosmology | Pre-print |
-| [The-Contract](link) | Moral Philosophy | Draft |
-| [The-Island-Experiment](link) | Philosophy of Civilisation | Draft |
-| [The-Median-Mandate](link) | Political Economy | Pre-print |
-| [The-Cascading-Pedagogy](link) | Philosophy of Education | Pre-print |
+| [[The-Sands-Governing-Theorem](link)](https://github.com/Sands-Philosophical-Society/Governing-Theorem) | Political Philosophy | Published on SSRN |
+| [The-Pufferfish-Principle](https://github.com/Sands-Philosophical-Society/Pufferfish) | Philosophy of Physics / Cosmology | Pre-print |
+| [The-Contract](https://github.com/Sands-Philosophical-Society/Contract) | Moral Philosophy | Draft |
+| [The-Island-Experiment](https://github.com/Sands-Philosophical-Society/Island) | Philosophy of Civilisation | Draft |
+| [The-Median-Mandate](https://github.com/Sands-Philosophical-Society/Median-Mandate) | Political Economy | Pre-print |
+| [The-Cascading-Pedagogy](https://github.com/Sands-Philosophical-Society/Cascading-Pedagogy) | Philosophy of Education | Pre-print |
 
 ## How It Works
 
