@@ -15,7 +15,7 @@ We use Git's version control architecture to do what Plato's dialogues could not
 | Repository | Domain | Status |
 |---|---|---|
 | [[The-Sands-Governing-Theorem](link)](https://github.com/Sands-Philosophical-Society/Governing-Theorem) | Political Philosophy | Published on SSRN |
-| [The-Pufferfish-Principle](https://github.com/Sands-Philosophical-Society/Pufferfish) | Philosophy of Physics / Cosmology | Pre-print |
+| [The-Pufferfish-Principle](https://github.com/Sands-Philosophical-Society/Pufferfish-Principle) | Philosophy of Physics / Cosmology | Published on PhilPapers |
 | [The-Contract](https://github.com/Sands-Philosophical-Society/Contract) | Moral Philosophy | Draft |
 | [The-Island-Experiment](https://github.com/Sands-Philosophical-Society/Island) | Philosophy of Civilisation | Draft |
 | [The-Median-Mandate](https://github.com/Sands-Philosophical-Society/Median-Mandate) | Political Economy | Pre-print |
@@ -29,7 +29,7 @@ We use Git's version control architecture to do what Plato's dialogues could not
 4. **The community discusses** the Pull Request. If the argument is sound, the amendment is merged into the canonical version.
 5. **Everything is preserved.** Rejected arguments remain visible in closed Pull Requests. The full history of every idea's development is permanently recorded.
 
-See [HOW_TO_CONTRIBUTE.md](link) for detailed guidelines.
+See HOW_TO_CONTRIBUTE.md for detailed guidelines.
 
 ## Why Git for Philosophy
 
