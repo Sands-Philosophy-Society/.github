@@ -14,12 +14,12 @@ We use Git's version control architecture to do what Plato's dialogues could not
 
 | Repository | Domain | Status |
 |---|---|---|
-| [[The-Sands-Governing-Theorem](link)](https://github.com/Sands-Philosophical-Society/Governing-Theorem) | Political Philosophy | Published on SSRN |
-| [The-Pufferfish-Principle](https://github.com/Sands-Philosophical-Society/Pufferfish-Principle) | Philosophy of Physics / Cosmology | Published on PhilPapers |
-| [The-Contract](https://github.com/Sands-Philosophical-Society/Contract) | Moral Philosophy | Draft |
-| [The-Island-Experiment](https://github.com/Sands-Philosophical-Society/Island) | Philosophy of Civilisation | Draft |
-| [The-Median-Mandate](https://github.com/Sands-Philosophical-Society/Median-Mandate) | Political Economy | Pre-print |
-| [The-Cascading-Pedagogy](https://github.com/Sands-Philosophical-Society/Cascading-Pedagogy) | Philosophy of Education | Pre-print |
+| [[The-Sands-Governing-Theorem] | Political Philosophy | Published on SSRN |
+| [The-Pufferfish-Principle] | Philosophy of Physics / Cosmology | Published on PhilPapers |
+| [The-Contract] | Moral Philosophy | Draft |
+| [The-Island-Experiment] | Philosophy of Civilisation | Draft |
+| [The-Median-Mandate] | Political Economy | Pre-print |
+| [The-Cascading-Pedagogy] | Philosophy of Education | Pre-print |
 
 ## How It Works
 
@@ -29,7 +29,7 @@ We use Git's version control architecture to do what Plato's dialogues could not
 4. **The community discusses** the Pull Request. If the argument is sound, the amendment is merged into the canonical version.
 5. **Everything is preserved.** Rejected arguments remain visible in closed Pull Requests. The full history of every idea's development is permanently recorded.
 
-See HOW_TO_CONTRIBUTE.md for detailed guidelines.
+See .github/HOW_TO_CONTRIBUTE.md for detailed guidelines.
 
 ## Why Git for Philosophy
 
